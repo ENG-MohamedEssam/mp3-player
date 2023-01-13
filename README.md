@@ -8,7 +8,7 @@
 #### The project also demonstrates my ability to work with different types of data, specifically audio data in this case, and my ability to manipulate and process that data in order to make it usable by the microcontroller. Furthermore, the ability to develop a timer driver shows my understanding of time-sensitive systems and my ability to work with low-level system features.
 
 ### The following is an image of the project
-![img]()
+![img](https://github.com/ENG-MohamedEssam/mp3-player/blob/main/images/image.jpeg)
 
 ### This is a demonstration of the project , note that the sound is still low so you need to make it at it's highest to hear the song 
-[]()
+[demonstration](https://drive.google.com/drive/u/0/folders/1zLy73r_MmECiYMkZTP3FEVgMv2IZBcje)
